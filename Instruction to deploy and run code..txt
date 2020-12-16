@@ -1,0 +1,17 @@
+                         Instruction For project : 
+1)For R code please  open R file and run the code in rstudio.
+2)For Python please open Anaconda prompt type Jupyter notebook and load ipynb file and run the code 
+3)Just Click on the file named "report" for project report 
+
+
+-------------	Software and Hardware Requirement:------------------------
+
+A)	R 3.6.1 for 64 bit
+B)	Anaconda 3 for 64 bit
+C)	R studio
+D)	64 bit OS
+E)	Python 3
+F)	Jupyter Notebook
+G)	4GB of RAM
+
+
